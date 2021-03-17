@@ -1,0 +1,124 @@
+{
+    "HREF": "https://{your_server}/api/v1/{your_account}/employees?max_rows=3",
+    "record_count": "3",
+    "total_record_count": "765",
+    "records": [
+        {
+            "HREF": "https://{your_server}/api/v1/{your_account}/employees/10105",
+            "BEGIN_OF_CONTRACT": "1997-09-21",
+            "CELLULAR_NUMBER": "787-760-337",
+            "DEPARTMENT_PATH": "DSI/Support",
+            "DEPARTMENT_ID": "47",
+            "E_MAIL": "lewis@evtry.com",
+            "EMPLOYEE_ID": "10105",
+            "LAST_NAME": "Lewis, Fabienne",
+            "LOCATION_PATH": "Europe/France/Paris/Champs Elysées/111",
+            "LOCATION_ID": "1530",
+            "PHONE_NUMBER": "+33155859638",
+            "LOCATION": {
+                "HREF": "https://{your_server}/api/v1/{your_account}/locations/1530",
+                "CITY": "",
+                "LOCATION_CODE": "",
+                "LOCATION_FR": "111",
+                "LOCATION_PATH": "Europe/France/Paris/Champs Elysées/111",
+                "LOCATION_ID": "1530"
+            },
+            "DEPARTMENT": {
+                "HREF": "https://{your_server}/api/v1/{your_account}/departments/47",
+                "DEPARTMENT_CODE": "",
+                "DEPARTMENT_FR": "Support",
+                "DEPARTMENT_PATH": "DSI/Support",
+                "DEPARTMENT_ID": "47",
+                "DEPARTMENT_LABEL": ""
+            },
+            "MANAGER": {
+                "BEGIN_OF_CONTRACT": "",
+                "CELLULAR_NUMBER": "",
+                "DEPARTMENT_PATH": "",
+                "E_MAIL": "",
+                "EMPLOYEE_ID": "",
+                "LAST_NAME": "",
+                "LOCATION_PATH": "",
+                "PHONE_NUMBER": ""
+            }
+        },
+        {
+            "HREF": "https://{your_server}/api/v1/{your_account}/employees80/10269",
+            "BEGIN_OF_CONTRACT": "1985-04-06",
+            "CELLULAR_NUMBER": "781-164-091",
+            "DEPARTMENT_PATH": "Ventes/Direct/Agriculture",
+            "DEPARTMENT_ID": "18",
+            "E_MAIL": "narp@evtry.com",
+            "EMPLOYEE_ID": "10269",
+            "LAST_NAME": "Arp, Naomi",
+            "LOCATION_PATH": "Europe/France/Strasbourg/Bat.1/Etage 17/1706",
+            "LOCATION_ID": "2203",
+            "PHONE_NUMBER": "+33155859738",
+            "LOCATION": {
+                "HREF": "https://{your_server}/api/v1/{your_account}/locations/2203",
+                "CITY": "",
+                "LOCATION_CODE": "",
+                "LOCATION_FR": "1706",
+                "LOCATION_PATH": "Europe/France/Strasbourg/Bat.1/Etage 17/1706",
+                "LOCATION_ID": "2203"
+            },
+            "DEPARTMENT": {
+                "HREF": "https://{your_server}/api/v1/{your_account}/departments/18",
+                "DEPARTMENT_CODE": "",
+                "DEPARTMENT_FR": "Agriculture",
+                "DEPARTMENT_PATH": "Ventes/Direct/Agriculture",
+                "DEPARTMENT_ID": "18",
+                "DEPARTMENT_LABEL": ""
+            },
+            "MANAGER": {
+                "BEGIN_OF_CONTRACT": "",
+                "CELLULAR_NUMBER": "",
+                "DEPARTMENT_PATH": "",
+                "E_MAIL": "",
+                "EMPLOYEE_ID": "",
+                "LAST_NAME": "",
+                "LOCATION_PATH": "",
+                "PHONE_NUMBER": ""
+            }
+        },
+        {
+            "HREF": "https://{your_server}/api/v1/{your_account}/employees/10270",
+            "BEGIN_OF_CONTRACT": "1985-03-09",
+            "CELLULAR_NUMBER": "787-720-447",
+            "DEPARTMENT_PATH": "Ventes/Direct/Support client",
+            "DEPARTMENT_ID": "22",
+            "E_MAIL": "oarrieu@evtry.com",
+            "EMPLOYEE_ID": "10270",
+            "LAST_NAME": "Arrieu, Oscar",
+            "LOCATION_PATH": "Europe/France/Limoges/Bat.1/Etage 16/1642",
+            "LOCATION_ID": "2194",
+            "PHONE_NUMBER": "+33155859356",
+            "LOCATION": {
+                "HREF": "https:// {your_server}/api/v1/{your_account}/locations/2194",
+                "CITY": "",
+                "LOCATION_CODE": "",
+                "LOCATION_FR": "1642",
+                "LOCATION_PATH": "Europe/France/Limoges/Bat.1/Etage 16/1642",
+                "LOCATION_ID": "2194"
+            },
+            "DEPARTMENT": {
+                "HREF": "https://{your_server}/api/v1/{your_account}/departments/22",
+                "DEPARTMENT_CODE": "",
+                "DEPARTMENT_FR": "Support client",
+                "DEPARTMENT_PATH": "Ventes/Direct/Support client",
+                "DEPARTMENT_ID": "22",
+                "DEPARTMENT_LABEL": ""
+            },
+            "MANAGER": {
+                "BEGIN_OF_CONTRACT": "",
+                "CELLULAR_NUMBER": "",
+                "DEPARTMENT_PATH": "",
+                "E_MAIL": "",
+                "EMPLOYEE_ID": "",
+                "LAST_NAME": "",
+                "LOCATION_PATH": "",
+                "PHONE_NUMBER": ""
+            }
+        }
+    ]
+}
